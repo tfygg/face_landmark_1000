@@ -8,6 +8,10 @@
 
 python3 demo.py
 
+## Model
+
+链接: https://pan.baidu.com/s/1SUHepuSiN-nV8VHqColR9g  密码: u7gp
+
 ## To Do List
 
 - [x] Face detection module
