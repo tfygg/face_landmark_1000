@@ -16,8 +16,8 @@ python3 demo.py
 
 - [x] Face detection module
 - [x] Face landmark module
+- [x] Web service
 - [ ] Face tracking module
-- [ ] Web service
 - [ ] Train module
 
 ## Reference:
